@@ -9,7 +9,7 @@ const Home = () => {
   const [results, setResults] = useState(null);
   const onSearch = () => {
     // https://api.tvmaze.com/search/shows?q=girls
-    apiGet(`search/shows?q=${input}`).then(result => {
+    apiGet(`/search/shows?q=${input}`).then(result => {
       setResults(result);
     });
   };
