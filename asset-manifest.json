@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/box-office/static/css/main.5fffadb5.chunk.css",
-    "main.js": "/box-office/static/js/main.50a738c2.chunk.js",
-    "main.js.map": "/box-office/static/js/main.50a738c2.chunk.js.map",
+    "main.js": "/box-office/static/js/main.21e16bab.chunk.js",
+    "main.js.map": "/box-office/static/js/main.21e16bab.chunk.js.map",
     "runtime-main.js": "/box-office/static/js/runtime-main.7638e030.js",
     "runtime-main.js.map": "/box-office/static/js/runtime-main.7638e030.js.map",
-    "static/js/2.2dc73900.chunk.js": "/box-office/static/js/2.2dc73900.chunk.js",
-    "static/js/2.2dc73900.chunk.js.map": "/box-office/static/js/2.2dc73900.chunk.js.map",
+    "static/js/2.c4fd8691.chunk.js": "/box-office/static/js/2.c4fd8691.chunk.js",
+    "static/js/2.c4fd8691.chunk.js.map": "/box-office/static/js/2.c4fd8691.chunk.js.map",
     "static/js/3.e1b93978.chunk.js": "/box-office/static/js/3.e1b93978.chunk.js",
     "static/js/3.e1b93978.chunk.js.map": "/box-office/static/js/3.e1b93978.chunk.js.map",
     "index.html": "/box-office/index.html",
@@ -14,12 +14,12 @@
     "service-worker.js.LICENSE.txt": "/box-office/service-worker.js.LICENSE.txt",
     "service-worker.js.map": "/box-office/service-worker.js.map",
     "static/css/main.5fffadb5.chunk.css.map": "/box-office/static/css/main.5fffadb5.chunk.css.map",
-    "static/js/2.2dc73900.chunk.js.LICENSE.txt": "/box-office/static/js/2.2dc73900.chunk.js.LICENSE.txt"
+    "static/js/2.c4fd8691.chunk.js.LICENSE.txt": "/box-office/static/js/2.c4fd8691.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7638e030.js",
-    "static/js/2.2dc73900.chunk.js",
+    "static/js/2.c4fd8691.chunk.js",
     "static/css/main.5fffadb5.chunk.css",
-    "static/js/main.50a738c2.chunk.js"
+    "static/js/main.21e16bab.chunk.js"
   ]
 }
